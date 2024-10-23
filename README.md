@@ -84,11 +84,6 @@ Rate Limited:
 }
 ```
 
-📊 Project Structure
-plaintextCopy.
-├── server.js          # Main application file
-├── logs/             # Task execution logs
-│   └── tasks.log     # Task logs
-├── package.json      # Dependencies
-├── .env             # Environment variables
-└── README.md        # Documentation
+## 📊 Project Structure
+
+ ├── server.js # Main application file ├── logs/ # Task execution logs │ └── tasks.log # Task logs ├── package.json # Dependencies ├── .env # Environment variables └── README.md #
